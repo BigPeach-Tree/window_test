@@ -1,5 +1,2 @@
-# window_test
-![대체 텍스트(Alternative Text)](https://picsum.photos/1000/400 "링크 설명(Title)")
-![이미지입니다!][Image]
-
-[Image]: https://picsum.photos/500/300 "이미지입니다!"
+# 코드 입장시 코드를 설명하는 페이지
+## git 기능 공부중 test용 공간
